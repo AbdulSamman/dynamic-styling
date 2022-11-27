@@ -1,0 +1,20 @@
+div.App {
+  background-color: #333;
+  color: #fff;
+  font-family: sans-serif;
+  padding: 0 1rem;
+  h1 {
+    color: rgb(211, 211, 110);
+  }
+  .isLogged {
+    background-color: green;
+    width: fit-content;
+  }
+  .isNotLogged {
+    background-color: #555;
+    width: fit-content;
+  }
+  p {
+    padding: 10px;
+  }
+}
